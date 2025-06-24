@@ -1,3 +1,9 @@
 # agentic_trend_comparison
 
-changes
+TODO's:
+
+[] implement Kaggle Dataset
+[] Code for Data Analysis
+[] Set Up Agent Structure 
+[] Code for MCP Tools
+[] ..
