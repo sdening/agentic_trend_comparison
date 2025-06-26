@@ -118,6 +118,7 @@ Ensure that the paths are correctly specified. Incorrect paths will prevent the 
 - [x] Set up the agentic tool structure with `FastMCP`.
 - [x] Implement `location_tool`, `fetch_tool`, `analyze_trends_tool`, and `plot_trends_tool`.
 - [ ] Implement a `comparison_tool` to directly compare the analysis results of multiple cities.
+- [ ] Filming and documenting demo of how it works. 
 
 ## 📊 Data Source
 
